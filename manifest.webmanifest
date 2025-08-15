@@ -1,0 +1,11 @@
+{
+  "short_name": "CRM App",
+  "name": "Modern CRM Dashboard",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#0f172a"
+}
